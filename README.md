@@ -20,8 +20,8 @@ Users can run this Jupyter notebook either on a cloud service like Google Colab 
 <a id="p3"></a> 
 # Dataset:
 
-We have used the FER-2018 dataset, which is available [here]([https://www.kaggle.com/datasets/ashishpatel26/fer2018/data]). This dataset is derived from the work of Goodfellow et al. (2013), whose paper can be viewed at [link]([https://arxiv.org/pdf/1307.0414]).
+We have used the FER-2018 dataset, which is available [here](https://www.kaggle.com/datasets/ashishpatel26/fer2018/data). This dataset is derived from the work of Goodfellow et al. (2013), whose paper can be viewed at [link](https://arxiv.org/pdf/1307.0414).
 
 <a id="p4"></a> 
 # Credits
-This work is inspired from [this]([https://github.com/omarsayed7/Deep-Emotion]) work, which gave us many insights and served as the foundation for further enhancing it with new features.
+This work is inspired from [this](https://github.com/omarsayed7/Deep-Emotion) work, which gave us many insights and served as the foundation for further enhancing it with new features.
