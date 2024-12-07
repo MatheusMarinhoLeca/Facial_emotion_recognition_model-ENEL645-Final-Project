@@ -17,7 +17,7 @@ This project implements a deep learning model for facial emotion recognition. We
 
 Users can run this Jupyter notebook either on a cloud service like Google Colab or locally on their machine. The notebook is structured with separate cells to accommodate both environments, allowing for easy configuration depending on the preferred setup. Detailed instructions are provided within the notebook to guide users through the process of selecting the appropriate runtime environment.
 
-To improve the efficiency of the project on local machines, we allow users to load a pre-trained model. The model must be in .pth format. We have provided the trained model on this GitHub repository, so users don’t need to retrain it on their local machines, as training can be time-consuming without a GPU.
+To improve the efficiency of the project on local machines, we allow users to load a pre-trained model. The model must be in .pth format. We have provided the trained model on this [Google Drive URL](https://drive.google.com/file/d/1GvKBlf37QaYKr0TqhKi4oK736Km18a5M/view?usp=sharing), so users don’t need to retrain it on their local machines, as training can be time-consuming without a GPU.
 The application is designed to detect emotions in real-time using a webcam. OpenCV (cv2) is used to handle video capture, process frames, and perform face detection and annotation in real-time. This process occurs locally, so no internet connection is required.
 
 <a id="p3"></a> 
