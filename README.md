@@ -1,4 +1,4 @@
-# Project Name : Facial emotion recognition
+# Real-time Facial Expression Recognition System
 ## Table Of Contents
 - **[Description](#p1)**
 - **[Usage](#p2)**
